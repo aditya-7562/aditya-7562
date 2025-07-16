@@ -49,7 +49,7 @@
 
 **Frameworks & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=express,react,nextjs,laravel,socketio,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=express,react,nextjs,laravel,tailwind,bootstrap" />
 </p>
 
 **Databases & ORMs**
