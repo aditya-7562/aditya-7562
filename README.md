@@ -22,10 +22,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30" alt="HackerRank" />
   </a>
   &nbsp;
-  <a href="https://www.hackerearth.com/@adityakumar24851" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/HackerEarth_logo.png" height="30" alt="HackerEarth" />
-  </a>
-  &nbsp;
   <a href="mailto:Adityakumar24851@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="25" />
   </a>
