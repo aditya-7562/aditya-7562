@@ -11,21 +11,26 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/adityaa75" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://www.leetcode.com/adityakumar24851" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="30" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
   </a>
+  &nbsp;
   <a href="https://www.hackerrank.com/adityakumar24851" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="30" alt="HackerRank" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30" alt="HackerRank" />
   </a>
+  &nbsp;
   <a href="https://www.hackerearth.com/@adityakumar24851" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/hackerearth/hackerearth-icon.svg" height="30" alt="HackerEarth" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/HackerEarth_logo.png" height="30" alt="HackerEarth" />
   </a>
-  <a href="mailto:Adityakumar24851@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  &nbsp;
+  <a href="mailto:Adityakumar24851@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="25" />
   </a>
 </p>
+
 
 ---
 
