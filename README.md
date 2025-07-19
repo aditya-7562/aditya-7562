@@ -32,7 +32,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on a **School Management System**, a **Smart Fitness Tracker**, and contributing to open-source (`jsonrepair`)
+- 🔭 Currently working on a **School Management System**, a **Smart Fitness Tracker**, and contributing to open-source (`mdn/content`, `freecodecamp/devdocs`, `editorconfig`)
 - 🌱 Learning **System Design**, **CI/CD pipelines**, and **hardware prototyping**
 - 💡 Passionate about **developer tools**, **education tech**, and **smart assistive devices**
 - ⚙️ Loves tinkering with Docker, Linux distros, and modern web stacks
